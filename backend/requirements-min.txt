@@ -13,10 +13,10 @@ cryptography
 bcrypt==5.0.0
 argon2-cffi==25.1.0
 PyJWT[crypto]==2.10.1
-authlib==1.6.9
+authlib==1.9.1
 
 requests==2.33.0
-aiohttp==3.12.15
+aiohttp==3.14.4
 async-timeout
 aiocache
 aiofiles
@@ -38,7 +38,7 @@ RestrictedPython==8.0
 loguru==0.7.3
 asgiref==3.11.0
 
-mcp==1.22.0
+mcp==1.30.0
 openai
 
 langchain==0.3.27
