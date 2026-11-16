@@ -10,10 +10,10 @@ cryptography
 bcrypt==5.0.0
 argon2-cffi==25.1.0
 PyJWT[crypto]==2.10.1
-authlib==1.6.9
+authlib==1.9.1
 
 requests==2.33.0
-aiohttp==3.12.15
+aiohttp==3.14.4
 async-timeout
 aiocache
 aiofiles
@@ -37,7 +37,7 @@ asgiref==3.11.0
 
 # AI libraries
 tiktoken
-mcp==1.22.0
+mcp==1.30.0
 
 openai
 anthropic
@@ -60,14 +60,14 @@ einops==0.8.1
 
 ftfy==6.3.1
 chardet==5.2.0
-pypdf==6.4.0
-fpdf2==2.8.2
+pypdf==6.21.4
+fpdf2==2.8.8
 pymdown-extensions==10.17.2
 docx2txt==0.8
 python-pptx==1.0.2
 unstructured==0.18.21
 msoffcrypto-tool==5.4.2
-nltk==3.9.1
+nltk==3.10.4
 Markdown==3.10
 pypandoc==1.16.2
 pandas==2.2.3
@@ -79,7 +79,7 @@ psutil
 sentencepiece
 soundfile==0.13.1
 
-pillow==11.3.0
+pillow==13.0.0
 opencv-python-headless==4.11.0.86
 rapidocr-onnxruntime==1.4.4
 rank-bm25==0.2.2
@@ -139,7 +139,7 @@ ldap3==2.9.1
 firecrawl-py==4.10.0
 
 ## Trace
-opentelemetry-api==1.38.0
+opentelemetry-api==1.45.2
 opentelemetry-sdk==1.38.0
 opentelemetry-exporter-otlp==1.38.0
 opentelemetry-instrumentation==0.59b0
